@@ -5,7 +5,7 @@
 [submodule "ospsuite"]
 	path = ospsuite
 	url = https://github.com/Open-Systems-Pharmacology/OSPSuite-R
-	branch = main
+	branch = v12.4.3
 [submodule "ospsuite.globalsensitivity"]
 	path = ospsuite.globalsensitivity
 	url = https://github.com/Open-Systems-Pharmacology/OSPSuite.GlobalSensitivity
