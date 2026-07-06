@@ -1,0 +1,10 @@
+{
+  "id": 144750478,
+  "created_at": "2026-07-06T12:05:28.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["OSPSuite.ParameterIdentification", "rSharp", "open-systems-pharmacology.r-universe.dev"]
+}
