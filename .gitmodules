@@ -1,5 +1,40 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/open-systems-pharmacology/open-systems-pharmacology.r-universe.dev
 	branch = HEAD
+[submodule "ospsuite"]
+	path = ospsuite
+	url = https://github.com/Open-Systems-Pharmacology/OSPSuite-R
+	branch = *release
+[submodule "ospsuite.globalsensitivity"]
+	path = ospsuite.globalsensitivity
+	url = https://github.com/Open-Systems-Pharmacology/OSPSuite.GlobalSensitivity
+	branch = *release
+[submodule "ospsuite.parameteridentification"]
+	path = ospsuite.parameteridentification
+	url = https://github.com/Open-Systems-Pharmacology/OSPSuite.ParameterIdentification
+	branch = *release
+[submodule "ospsuite.plots"]
+	path = ospsuite.plots
+	url = https://github.com/Open-Systems-Pharmacology/OSPSuite.Plots
+	branch = *release
+[submodule "ospsuite.reportingengine"]
+	path = ospsuite.reportingengine
+	url = https://github.com/Open-Systems-Pharmacology/OSPSuite.ReportingEngine
+	branch = *release
+[submodule "ospsuite.reportingframework"]
+	path = ospsuite.reportingframework
+	url = https://github.com/Open-Systems-Pharmacology/OSPSuite.ReportingFramework
+	branch = *release
+[submodule "ospsuite.utils"]
+	path = ospsuite.utils
+	url = https://github.com/Open-Systems-Pharmacology/OSPSuite.RUtils
+	branch = *release
+[submodule "rSharp"]
+	path = rSharp
+	url = https://github.com/Open-Systems-Pharmacology/rSharp
+	branch = *release
+[submodule "tlf"]
+	path = tlf
+	url = https://github.com/Open-Systems-Pharmacology/TLF-Library
+	branch = *release

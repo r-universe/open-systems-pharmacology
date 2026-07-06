@@ -1,0 +1,38 @@
+[
+  {
+    "package": "rSharp",
+    "releasetag": true
+  },
+  {
+    "package": "ospsuite.utils",
+    "releasetag": true
+  },
+  {
+    "package": "tlf",
+    "releasetag": true
+  },
+  {
+    "package": "ospsuite",
+    "releasetag": true
+  },
+  {
+    "package": "ospsuite.plots",
+    "releasetag": true
+  },
+  {
+    "package": "ospsuite.reportingengine",
+    "releasetag": true
+  },
+  {
+    "package": "ospsuite.parameteridentification",
+    "releasetag": true
+  },
+  {
+    "package": "ospsuite.globalsensitivity",
+    "releasetag": true
+  },
+  {
+    "package": "ospsuite.reportingframework",
+    "releasetag": true
+  }
+]
