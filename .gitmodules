@@ -33,7 +33,7 @@
 [submodule "rSharp"]
 	path = rSharp
 	url = https://github.com/Open-Systems-Pharmacology/rSharp
-	branch = v1.2.1
+	branch = v1.2.2
 [submodule "tlf"]
 	path = tlf
 	url = https://github.com/Open-Systems-Pharmacology/TLF-Library
