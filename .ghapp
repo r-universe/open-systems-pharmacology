@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["OSPSuite.ParameterIdentification", "rSharp", "open-systems-pharmacology.r-universe.dev"]
+  "repositories": ["OSPSuite-R", "TLF-Library", "OSPSuite.ReportingEngine", "OSPSuite.ParameterIdentification", "OSPSuite.RUtils", "OSPSuite.Plots", "OSPSuite.GlobalSensitivity", "rSharp", "OSPSuite.ReportingFramework", "open-systems-pharmacology.r-universe.dev"]
 }
