@@ -12,10 +12,6 @@
     "releasetag": true
   },
   {
-    "package": "ospsuite",
-    "releasetag": true
-  },
-  {
     "package": "ospsuite.plots",
     "releasetag": true
   },
