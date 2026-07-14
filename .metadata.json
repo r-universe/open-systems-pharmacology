@@ -12,10 +12,6 @@
     "releasetag": true
   },
   {
-    "package": "ospsuite.plots",
-    "releasetag": true
-  },
-  {
     "package": "ospsuite.reportingengine",
     "releasetag": true
   },

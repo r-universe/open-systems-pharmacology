@@ -17,7 +17,7 @@
 [submodule "ospsuite.plots"]
 	path = ospsuite.plots
 	url = https://github.com/Open-Systems-Pharmacology/OSPSuite.Plots
-	branch = v1.2.0
+	branch = main
 [submodule "ospsuite.reportingengine"]
 	path = ospsuite.reportingengine
 	url = https://github.com/Open-Systems-Pharmacology/OSPSuite.ReportingEngine
