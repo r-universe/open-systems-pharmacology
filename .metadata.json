@@ -1,9 +1,5 @@
 [
   {
-    "package": "rSharp",
-    "releasetag": true
-  },
-  {
     "package": "ospsuite.utils",
     "releasetag": true
   },
